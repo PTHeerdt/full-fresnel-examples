@@ -66,7 +66,7 @@ https://github.com/PTHeerdt/blender-full-fresnel
 
 These Blender scene files reference that material implementation and are intended to be used only with 
 
-the above Blender build that includes the above modifications.
+the above Blender build that includes the modifications.
 
 
 
